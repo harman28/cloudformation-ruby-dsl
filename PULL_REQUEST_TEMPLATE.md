@@ -1,6 +1,3 @@
-## Status
-**READY/IN DEVELOPMENT/HOLD**
-
 ## Description
 Describe the objective of this PR.
 
@@ -9,15 +6,20 @@ Outline the steps to test or reproduce the PR here.
 ```
 Code that reproduces the behaviour of the PR/to be fixed by the PR
 ```
+### Environment
+Describe the environment the bug or feature can be observed in. This may include platform, ruby version, DSL info, etc.
 
-## Deploy Notes and Migrations
-Notes regarding deployment. If any migrations are being made, note them here.
+## Deploy Notes
+If the change affects the way in which the gem is released, or requires a bump in version, note this here.
 
 ## Related Issues and PRs
 
-Issues|PRs
-------|------
-[issue_link]()|[pr1](), [pr2]()
+### Issues
+ - [issue_link]()
+
+### PRs
+ - [pr1]()
+ - [pr2]()
 
 ## Todos
 - [x] Pull Request
