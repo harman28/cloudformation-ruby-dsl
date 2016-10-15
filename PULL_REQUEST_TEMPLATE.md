@@ -13,21 +13,14 @@ Code that reproduces the behaviour of the PR/to be fixed by the PR
 ## Deploy Notes and Migrations
 Notes regarding deployment. If any migrations are being made, note them here.
 
-## Related Issues
+## Related Issues and PRs
 
-Relevant Issues|
----------------|
-[issue_link]()|
-
-## Related PRs
-List of PRs made to other branches, if any
-
-branch | PR
------- | ------
-pr_to_production | [link]()
-pr_to_master | [link]()
+Issues|PRs
+------|------
+[issue_link]()|[pr1](), [pr2]()
 
 ## Todos
+- [x] Pull Request
 - [ ] Tests
 - [ ] Documentation
 
